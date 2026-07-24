@@ -18,6 +18,10 @@
     ".js": {
       "enabled": false,
       "run": "typescript-language-server --stdio"
+    },
+    ".gradle": {
+      "enabled": false,
+      "run": "groovy-language-server"
     }
   }
 }
